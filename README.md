@@ -1,5 +1,5 @@
-# Protolude - Sans issue
-Sans issue est un jeu qui donne au joueur un besoin de chercher une solution, mais qui engendre quelques obstacles. Chaque terrain est de plus en sinistre, donnant une idée de jeu d'évasion.
+# Protolude
+C'est un jeu qui donne au joueur un besoin de chercher une solution, mais qui engendre quelques obstacles. Chaque terrain est de plus en sinistre, donnant une idée de jeu d'évasion.
 
 ### Les interactions
 - Arrivé dans la deuxième partie du monde, le seul moyen d'ouvrir la porte est de rentrer en contact avec le feu en dessous des escalier pour avoir "la clé".
