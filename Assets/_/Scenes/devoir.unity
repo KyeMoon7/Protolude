@@ -8863,7 +8863,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2361966, guid: e33d966a7b2a13640bf08d0426672073, type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 64041998238042016, guid: e33d966a7b2a13640bf08d0426672073, type: 3}
       propertyPath: m_Convex
