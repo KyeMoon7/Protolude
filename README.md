@@ -6,4 +6,4 @@ Sans issue est un jeu qui donne au joueur un besoin de chercher une solution, ma
 - Lorsqu'on a la clé et qu'on remonte les escalier, les portes tombent. La porte qui tombe est un objet autre que le personnage qui est affecté par la physique
 - Monter les escaliers après avoir pris le feu, allume les torches petit à petit par des box colliders quand le joueur monte.
 - Le contact entre la porte et le joueur lorsqu'elle tombe engendre un échec. 
-- Lorsqu'on traverse la porte, ça provoque un changement de scène qui montre la fin du jeu, mais laisse un suspence, ce qui fais un lien avec l'environnement de fin.
+- Lorsqu'on traverse la porte, un box collider un peu plus loin provoque un changement de scène qui montre la fin du jeu quand le joueur rentre dedans, mais laisse un suspence, ce qui fais un lien avec l'environnement de fin.
